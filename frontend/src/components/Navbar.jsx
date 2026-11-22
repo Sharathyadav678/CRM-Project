@@ -36,7 +36,7 @@ function Navbar() {
                 <MdDashboard className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">Mini CRM</h1>
+                <h1 className="text-xl font-bold text-gray-900">Major CRM</h1>
                 <p className="text-xs text-gray-500">Opportunity Tracker</p>
               </div>
             </div>
